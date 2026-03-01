@@ -9,3 +9,6 @@ This project performs customer segmentation based on credit card data using mach
 - Clustering algorithms (e.g., GMM, KMeans)
 - Model evaluation and interpretation
 - Clusters Profiling
+
+## Colab Link
+[Colab Link](https://colab.research.google.com/drive/1jJW5GZknLT1HTalmUYc4cdZhkjWTNyp2?usp=sharing)
