@@ -8,3 +8,4 @@ This project performs customer segmentation based on credit card data using mach
 - Exploratory data analysis (EDA) with visualizations
 - Clustering algorithms (e.g., GMM, KMeans)
 - Model evaluation and interpretation
+- Clusters Profiling
