@@ -12,3 +12,6 @@ This project performs customer segmentation based on credit card data using mach
 
 ## Colab Link
 [Colab Link](https://colab.research.google.com/drive/1jJW5GZknLT1HTalmUYc4cdZhkjWTNyp2?usp=sharing)
+
+## Kaggle Link 
+[Kaggle Link](https://www.kaggle.com/code/aliabdelmenam/customer-segmentation)
